@@ -2,9 +2,9 @@ Hi 👋, I’m Tito
 
 I want to be a data scientist
 
-I’m currently learning Python, HTML, CSS, Javascript, and Math
+Currently, I’m learning Python, HTML, CSS, Javascript, and appllied mathematics
 
-In this site you'll find my portfolio, from basic to pro. As I progress, I will show my projects and tasks.
+In this site you'll find my portfolio, from basic to pro. As I progress, I'll show you my projects.
 
 
 <!---
