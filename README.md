@@ -1,10 +1,6 @@
 Hi 👋, I’m Tito
 
-I want to be a data scientist
-
-Currently, I’m learning Python, HTML, CSS, Javascript, and appllied mathematics
-
-In this site you'll find my portfolio, from basic to pro. As I progress, I'll show you my projects.
+I am a systems engineer with a master's degree in software engineering. Here I will be sharing my activities of interest related to technology. If you like video games and anime, consider me your nakama ⛵.
 
 
 <!---
